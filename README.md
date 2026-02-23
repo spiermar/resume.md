@@ -18,10 +18,17 @@ A champion of **efficiency** and known for building effective **remote teams**, 
 
 ### **Experience**
 
-#### **VP, Platform Engineering (Nov 2021 – Present)**
+#### **VP of Engineering (Jul 2025 \- Present)**
+
+**Parasail | San Mateo, CA**
+
+*Parasail is the first AI Deployment Network, providing access to the world’s largest pool of on-demand GPU compute, giving AI builders fast, flexible, and cost-efficient infrastructure to deploy and scale models without contracts, quotas, or cloud complexity.*
+
+#### **VP, Platform Engineering (Nov 2021 \- Jun 2025\)**
+
 **PicPay | Remote**
 
-*PicPay, the largest digital wallet in Latin America, extends a wide array of financial services, including peer-to-peer payments, credit cards, personal loans, insurance, and investments to a vast user base of over 70 million individuals.*
+*PicPay, the largest digital wallet in Latin America, extends a wide array of financial services, including peer-to-peer payments, credit cards, personal loans, insurance, and investments to a vast user base of over 60 million individuals.*
 
 - **Leadership & Strategy:** Direct a 200+ cross-functional engineering organization, overseeing core engineering functions including cloud infrastructure, backend, mobile, data, and ML platforms, observability, and developer experience. Align engineering initiatives with business objectives, driving innovation, user experience, and operational excellence across the organization.  
 - **Platform Engineering:** Defined a Platform Engineering strategy, leading to the development of a foundational layer that abstracts application and infrastructure complexity, enabling consistency, reusability, and reduced cognitive load for developers. Achieved a 20% reduction in Change Lead Time and increased Deployment Frequency.  
@@ -32,18 +39,19 @@ A champion of **efficiency** and known for building effective **remote teams**, 
 - **Product & Technology Alignment:** Led the consolidation of product and technology teams into a single, unified organization, enhancing collaboration and alignment. Managed the transition by clearly communicating the vision and motivations, and addressing team concerns around development and career growth.  
 - **Technical Debt Reduction:** Spearheaded the decommissioning of large legacy systems, resolving security vulnerabilities and critical scalability issues. Managed the transition to a multi-account cloud architecture using Infrastructure as Code (IaC), ensuring minimal disruption and enhancing scalability, security, and maintainability.  
 - **FinOps Practice:** Established a FinOps practice across 16 Business Units, focusing on cost visibility and cloud optimization. Led the cultural shift toward cost accountability, delivering over $30M in annualized savings while supporting efficient growth.  
-- **Data Ingestion & Processing:** Led the transition from full database loads to Change Data Capture (CDC) and event streaming, reducing data ingestion time and infrastructure costs. Championed the adoption of modern data architectures to support real-time analytics and decision-making.  
 - **Mobile Development:** Secured executive buy-in and spearheaded the development of a hybrid and Server-Driven UI framework. Led the adoption of the framework, while managing the impact of this paradigm change on mobile development teams, reducing time-to-market by 94% and boosting developer productivity.  
 - **End User Experience:** Improved PicPay’s end-user retention by focusing team efforts around non-functional quality metrics (crashes, ANRs, UI hangs, slow starts). Reduced ANRs by 88% and crashes by 80% through active refactoring, optimization, and automated error triage.
 
-#### **Performance Architect (May 2021 – Nov 2021\)**
+#### **Performance Architect (May 2021 \- Nov 2021\)**
+
 **Snowflake | San Mateo, CA**
 
 - Enhanced Snowflake’s cloud data platform through architectural improvements, performance analysis of core components, and service level optimizations.  
 - Developed prototypes for system observability and performance analysis tools, improving issue detection and alerting, enabling self-healing capabilities, and ensuring a more stable and efficient end user experience.  
 - Collaborated with engineering teams to refine service deployment models, reducing change failure rate and increasing the overall system availability and stability.
 
-#### **Performance Architect (Dec 2012 – May 2021\)**
+#### **Performance Architect (Dec 2012 \- May 2021\)**
+
 **Netflix | Los Gatos, CA**
 
 - **Performance Optimization:** Designed scalable architectures and implemented optimizations for Netflix’s global streaming platform, serving over 200 million subscribers. Conducted performance analysis and tuning across all system layers, improving reliability and performance of real-time, batch, big data and ML workloads.  
@@ -61,10 +69,12 @@ A champion of **efficiency** and known for building effective **remote teams**, 
 - **Cloud Architecture Leadership:** Defined and implemented cloud architecture standards and best practices during Netflix’s migration to the cloud, ensuring scalability, reliability, and efficiency across the platform.  
 - **Mentorship & Culture Building:** Mentored engineers and onboarded new hires on performance tools and practices, raising Netflix’s bar for engineering excellence.
 
-#### **Performance Engineer (Jan 2011 – Dec 2012\)**
+#### **Performance Engineer (Jan 2011 \- Dec 2012\)**
+
 **Expedia | Bellevue, WA**
 
-#### **Performance Engineer (Jan 2007 – Jan 2011\)**
+#### **Performance Engineer (Jan 2007 \- Jan 2011\)**
+
 **Dell | Porto Alegre, Brazil**
 
 ---
@@ -90,5 +100,5 @@ A champion of **efficiency** and known for building effective **remote teams**, 
 
 **Pontifícia Universidade Católica do Rio Grande do Sul (PUCRS), Brazil**
 
-- **Project Management** (2009 – 2010\)  
-- **B.Sc. Computer Science** (2002 – 2008\)
+- **Project Management** (2009 \- 2010\)  
+- **B.Sc. Computer Science** (2002 \- 2008\)
