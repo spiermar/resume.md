@@ -1,6 +1,6 @@
 ### **Martin Spier**
 
-**VP of Engineering. Platform Engineering, Cloud Infrastructure, Developer Experience. Ex-Netflix.**
+**Engineering Leader focused on AI and Cloud Infrastructure, Performance and Reliability, and Platform Engineering. Ex-Netflix.**
 
 Email: [hello@martinspier.io](mailto:hello@martinspier.io)  
 LinkedIn: [linkedin.com/in/martinspier](http://linkedin.com/in/martinspier) | GitHub: [github.com/spiermar](http://github.com/spiermar)   
