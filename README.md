@@ -1,6 +1,6 @@
 ### **Martin Spier**
 
-**Engineering Leader focused on AI and Cloud Infrastructure, Performance and Reliability, and Platform Engineering. Ex-Netflix.**
+**Engineering Leader focused on AI and Cloud Infrastructure, Platform Engineering, Performance and Reliability. ChatGPT Performance @ OpenAI. Ex-Netflix.**
 
 Email: [hello@martinspier.io](mailto:hello@martinspier.io)  
 LinkedIn: [linkedin.com/in/martinspier](http://linkedin.com/in/martinspier) | GitHub: [github.com/spiermar](http://github.com/spiermar)   
