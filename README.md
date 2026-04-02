@@ -18,7 +18,13 @@ A champion of **efficiency** and known for building effective **remote teams**, 
 
 ### **Experience**
 
-#### **VP of Engineering (Jul 2025 \- Present)**
+#### **Member of Technical Staff (Apr 2026 \- Present)**
+
+**OpenAI | San Francisco, CA**
+
+*ChatGPT Performance.*
+
+#### **VP of Engineering (Jul 2025 \- Apr 2026\)**
 
 **Parasail | San Mateo, CA**
 
