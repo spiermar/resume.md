@@ -1,6 +1,6 @@
 ### **Martin Spier**
 
-**Engineering Leader focused on AI and Cloud Infrastructure, Platform Engineering, Performance and Reliability. ChatGPT Performance @ OpenAI. Ex-Netflix.**
+**Engineering Leader | AI Infrastructure, Platform Engineering, Performance & Reliability**
 
 Email: [hello@martinspier.io](mailto:hello@martinspier.io)  
 LinkedIn: [linkedin.com/in/martinspier](http://linkedin.com/in/martinspier) | GitHub: [github.com/spiermar](http://github.com/spiermar)   
@@ -24,11 +24,19 @@ A champion of **efficiency** and known for building effective **remote teams**, 
 
 *ChatGPT Performance.*
 
+- Leading OpenAI’s ChatGPT Performance team to improve performance, efficiency, reliability, and end-user experience across the ChatGPT stack, partnering across product and infrastructure teams.  
+
 #### **VP of Engineering (Jul 2025 \- Apr 2026\)**
 
-**Parasail | San Mateo, CA**
+**Parasail AI | San Mateo, CA**
 
-*Parasail is the first AI Deployment Network, providing access to the world’s largest pool of on-demand GPU compute, giving AI builders fast, flexible, and cost-efficient infrastructure to deploy and scale models without contracts, quotas, or cloud complexity.*
+*Parasail AI provides fully managed AI inference at scale, enabling builders to deploy any model on fast, flexible, and cost-efficient infrastructure that scales infinitely.*
+
+- Structured engineering planning, development, hiring, and onboarding processes, improving delivery predictability and growing the engineering team by 50% in 6 months.  
+- Improved inference performance and efficiency, including Time to First Token (TTFT) and tokens per second (TPS), increasing platform competitiveness and supporting 5x+ ARR growth in 9 months.  
+- Shipped low-latency audio workflows built on composable STT, LLM, and TTS models, and launched multiple open-source models on day one of release.  
+- Launched a fully managed, consumption-based inference service that became the company’s primary growth driver, while supporting the executive team through Series A fundraising.  
+- Led the company’s SOC 2 compliance program, strengthening enterprise readiness while scaling the platform and engineering organization.  
 
 #### **VP, Platform Engineering (Nov 2021 \- Jun 2025\)**
 
@@ -52,9 +60,8 @@ A champion of **efficiency** and known for building effective **remote teams**, 
 
 **Snowflake | San Mateo, CA**
 
-- Enhanced Snowflake’s cloud data platform through architectural improvements, performance analysis of core components, and service level optimizations.  
-- Developed prototypes for system observability and performance analysis tools, improving issue detection and alerting, enabling self-healing capabilities, and ensuring a more stable and efficient end user experience.  
-- Collaborated with engineering teams to refine service deployment models, reducing change failure rate and increasing the overall system availability and stability.
+- Improved Snowflake’s cloud data platform through architectural changes, performance analysis of core components, and service-level optimizations, while refining deployment models to reduce change failure rate and improve overall availability and stability.  
+- Developed observability and performance analysis prototypes that improved issue detection and alerting, enabled self-healing capabilities, and strengthened end-user stability and efficiency.
 
 #### **Performance Architect (Dec 2012 \- May 2021\)**
 
