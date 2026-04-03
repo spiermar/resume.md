@@ -8,12 +8,16 @@ Phone: \+1 (425) 351-8800
 
 ---
 
-### **Professional Summary**
+### **Leadership Profile**
 
-Accomplished **Engineering Leader** with over 15 years of experience driving transformative technical strategies and scaling high-performing engineering organizations. Proven expertise in large-scale **platform engineering**, **cloud infrastructure**, and **developer productivity**, with a track record of leading **200+ engineer** organizations to deliver scalable, reliable, and efficient solutions.   
-A champion of **efficiency** and known for building effective **remote teams**, implementing **data-driven cultures** and **developer-first processes**, driving productivity and fostering **cross-functional collaboration** to align technical innovation with business goals. Deep knowledge of **performance** and **reliability** engineering, **observability,** and **distributed systems** has enabled the delivery of solutions supporting hundreds of millions of users. Authored popular open-source tools and advised VC funds and startups, demonstrating thought leadership in the tech community.
+Engineering leader with 15+ years of experience building and scaling platform, infrastructure, and performance engineering organizations across AI, fintech, and consumer internet. Scaled high-performing remote teams and 200+ engineer organizations, aligning technical innovation with business goals and delivering measurable gains in engineering velocity, efficiency, performance, and reliability.
 
-**Strategic Planning • Data-Driven Decision Making • Team Leadership and Development • Cross-Functional Collaboration • Change Management • Remote Team Management • Vendor Management**  
+Combines senior engineering leadership with deep technical judgment in distributed systems, cloud and AI infrastructure, observability, developer platforms, and performance engineering. Set technical direction across platform, infrastructure, and developer experience to improve engineering effectiveness, product velocity, reliability, and performance for products serving hundreds of millions of users. Authored widely used open-source performance tools and advised startups and investors on engineering strategy, infrastructure, and scale.
+
+### **Leadership Themes**
+
+**Platform Engineering & Developer Experience** • **Cloud, AI Infrastructure & Scalability** • **Performance, Reliability & Observability**  
+**Strategic Technical Leadership** • **Team Leadership, Development & Remote Management** • **Talent Acquisition & Organizational Growth**  
 ---
 
 ### **Experience**
@@ -89,23 +93,6 @@ A champion of **efficiency** and known for building effective **remote teams**, 
 #### **Performance Engineer (Jan 2007 \- Jan 2011\)**
 
 **Dell | Porto Alegre, Brazil**
-
----
-
-### **Skills**
-
-**Leadership Skills:**
-
-- Strategic Planning | Organizational Leadership | Data-Driven Decision Making | Metrics-Driven Leadership  
-- Change Management | Executive Communication | Stakeholder Management | Cross-Functional Collaboration  
-- People Management | Talent Acquisition | Career Development | Remote Team Management  
-- Performance Management | Conflict Management | Resource Management | Vendor Management
-
-**Technical Skills:**
-
-- Distributed Systems | Performance Engineering | Reliability Engineering | Observability  
-- Platform Engineering | Developer Experience | Data Visualization | Data Engineering  
-- Cloud Infrastructure  | AWS | Kubernetes | Kafka | Kong
 
 ---
 
