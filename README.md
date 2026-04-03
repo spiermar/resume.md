@@ -1,6 +1,6 @@
 ### **Martin Spier**
 
-**Engineering Leader | AI Infrastructure, Platform Engineering, Performance & Reliability**
+**Engineering Leader | AI and Cloud Infrastructure, Platform Engineering, Performance and Reliability**
 
 Email: [hello@martinspier.io](mailto:hello@martinspier.io)  
 LinkedIn: [linkedin.com/in/martinspier](http://linkedin.com/in/martinspier) | GitHub: [github.com/spiermar](http://github.com/spiermar)   
